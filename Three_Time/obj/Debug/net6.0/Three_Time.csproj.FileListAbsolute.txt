@@ -1,0 +1,15 @@
+G:\Practice Work Area\C sharp Project\Problem Solveing\01_02_24_Practice\Three_Time\Three_Time\bin\Debug\net6.0\Three_Time.exe
+G:\Practice Work Area\C sharp Project\Problem Solveing\01_02_24_Practice\Three_Time\Three_Time\bin\Debug\net6.0\Three_Time.deps.json
+G:\Practice Work Area\C sharp Project\Problem Solveing\01_02_24_Practice\Three_Time\Three_Time\bin\Debug\net6.0\Three_Time.runtimeconfig.json
+G:\Practice Work Area\C sharp Project\Problem Solveing\01_02_24_Practice\Three_Time\Three_Time\bin\Debug\net6.0\Three_Time.dll
+G:\Practice Work Area\C sharp Project\Problem Solveing\01_02_24_Practice\Three_Time\Three_Time\bin\Debug\net6.0\Three_Time.pdb
+G:\Practice Work Area\C sharp Project\Problem Solveing\01_02_24_Practice\Three_Time\Three_Time\obj\Debug\net6.0\Three_Time.csproj.AssemblyReference.cache
+G:\Practice Work Area\C sharp Project\Problem Solveing\01_02_24_Practice\Three_Time\Three_Time\obj\Debug\net6.0\Three_Time.GeneratedMSBuildEditorConfig.editorconfig
+G:\Practice Work Area\C sharp Project\Problem Solveing\01_02_24_Practice\Three_Time\Three_Time\obj\Debug\net6.0\Three_Time.AssemblyInfoInputs.cache
+G:\Practice Work Area\C sharp Project\Problem Solveing\01_02_24_Practice\Three_Time\Three_Time\obj\Debug\net6.0\Three_Time.AssemblyInfo.cs
+G:\Practice Work Area\C sharp Project\Problem Solveing\01_02_24_Practice\Three_Time\Three_Time\obj\Debug\net6.0\Three_Time.csproj.CoreCompileInputs.cache
+G:\Practice Work Area\C sharp Project\Problem Solveing\01_02_24_Practice\Three_Time\Three_Time\obj\Debug\net6.0\Three_Time.dll
+G:\Practice Work Area\C sharp Project\Problem Solveing\01_02_24_Practice\Three_Time\Three_Time\obj\Debug\net6.0\refint\Three_Time.dll
+G:\Practice Work Area\C sharp Project\Problem Solveing\01_02_24_Practice\Three_Time\Three_Time\obj\Debug\net6.0\Three_Time.pdb
+G:\Practice Work Area\C sharp Project\Problem Solveing\01_02_24_Practice\Three_Time\Three_Time\obj\Debug\net6.0\Three_Time.genruntimeconfig.cache
+G:\Practice Work Area\C sharp Project\Problem Solveing\01_02_24_Practice\Three_Time\Three_Time\obj\Debug\net6.0\ref\Three_Time.dll
